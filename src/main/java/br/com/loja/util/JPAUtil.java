@@ -1,4 +1,4 @@
-package br.com.loja;
+package br.com.loja.util;
 
 import javax.persistence.EntityManager;
 import javax.persistence.EntityManagerFactory;
